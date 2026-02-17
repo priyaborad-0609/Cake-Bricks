@@ -73,7 +73,11 @@ cake-bricks/
 <img width="1470" height="831" alt="Screenshot 2026-02-16 at 4 08 39 AM" src="https://github.com/user-attachments/assets/6e8f1019-a14e-4414-b4af-05d5593ff235" />
 
 ---
+## ▶️ Project Walkthrough
 
+👉 [Watch Video](https://drive.google.com/file/d/1-gu7udZqyX9nlOilvE18rTcZoXpBsu6h/view?usp=sharing)
+
+---
 
 ## ⚙️ Backend Setup
 
